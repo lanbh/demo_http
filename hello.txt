@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-print("hello lanbh");
-=======
 print("hello world gsdg");
->>>>>>> iss53
 print("xxxx");
 print("yyy");
 print("zzzz");
